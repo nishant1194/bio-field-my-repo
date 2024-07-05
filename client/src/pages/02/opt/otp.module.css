@@ -1,0 +1,66 @@
+.mainC{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 25px;
+}
+.verify {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.enter {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 300;
+  padding: 10px;
+}
+
+.otpp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+  flex-direction: column;
+}
+
+.btn{
+    background-color: #037B39;
+    width : 280px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    margin: 30px 0px;
+    border: 1px solid #037B39;
+}
+
+.blewotp{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dontrecieve{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.resend{
+    font-size: 12px;
+    font-weight: 300;
+    color: #037B39;
+}
+
+.terms{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+
+    margin:25px 35px;
+}

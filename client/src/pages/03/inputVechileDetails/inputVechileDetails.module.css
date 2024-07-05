@@ -1,0 +1,42 @@
+.mainC{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text1{
+    font-size: 16px;
+    font-weight: 600;
+width: 325px;
+margin: 20px 0px 10px 0px;
+text-transform: uppercase;
+}
+.input{
+    display: flex;
+    align-items: center;
+    height:40px ;
+width: 330px;
+border-radius: 8px;
+margin: 10px;
+border: 0.5px solid black;
+}
+
+.inputNumber{
+    width:990%;
+    height: 80%;
+    border: 0px solid black;
+    font-size: 14px;
+    font-weight: 400;
+}
+.image2{
+    height: 24px;
+    width: 26px;
+    margin: 0px 5px ;
+
+}
+
+.image1{
+    height: 170px;
+    width: 200px;
+    margin: 10px 0px ;
+}

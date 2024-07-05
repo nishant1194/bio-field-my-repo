@@ -1,0 +1,97 @@
+.mainC{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.text1{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 20px 0px 10px 0px ;
+}
+.text2{
+    font-size: 24px;
+    font-weight: 600;
+}
+.text3{
+    font-size: 14px;
+    font-weight: 400;
+    color: #868686;
+    margin: 10px 50px 0px 50px;
+    text-align: center;
+}
+
+
+.input{
+    display: flex;
+    align-items: center;
+    height:48px ;
+width: 330px;
+border-radius: 8px;
+margin: 10px;
+border: 0.5px solid black;
+}
+
+.inputNumber{
+    width:990%;
+    height: 80%;
+    border: 0px solid black;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.image2{
+        height: 24px;
+        width: 26px;
+        margin: 0px 9px ;
+
+}
+
+.text4{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 6px 0px;
+    width: 330px;
+    text-transform: uppercase;
+}
+.biomasses{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 15px 15px  15px;
+}
+.biomassestypes{
+    color: #707773;
+    background-color: #f1f1f1;
+    padding: 4px 5px ;
+    border-radius: 8px;
+    margin: 5px 7px;
+}
+.biomassesAll{
+    color: #707773;
+    background-color: #f1f1f1;
+    padding: 4px 16px ;
+    border-radius: 8px;
+    margin: 5px 10px;
+}
+
+.confirm{
+
+    background-color: #037B39;
+    width : 335px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    border: 1px solid #037B39;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 10px 0px 0px 0px ;
+}
+
+.text5{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 16px 0px 5px 0px;
+    width: 330px;
+    text-transform: uppercase;
+}

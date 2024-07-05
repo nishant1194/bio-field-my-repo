@@ -1,0 +1,55 @@
+.mainC{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 40px 20px 15px 20px ;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.imgg{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.doneimg{
+    height: 24px;
+    width: 24px;
+}
+
+.biodata{
+    width: 310px;
+}
+
+.fullName{
+    font-size: 12px;
+    font-weight: 600;
+    color: #868686;
+    padding: 10px 0px 5px 0px ;
+}
+.name{
+    padding: 5px 0px 15px 0px ;
+
+}
+
+.line{
+    height: 1px;
+    background-color: #F3F2F2;
+}
+
+.confirm{
+    background-color: #037B39;
+    padding:12px 120px ;
+    color: white;
+    margin-top: 10px;
+    border: 1px solid #037B39;
+    margin-top: 70px;
+}

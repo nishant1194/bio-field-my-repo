@@ -1,0 +1,11 @@
+.confirm{
+    background-color: #037B39;
+    width : 300px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    border: 1px solid #037B39;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 20px 0px 0px 0px ;
+}

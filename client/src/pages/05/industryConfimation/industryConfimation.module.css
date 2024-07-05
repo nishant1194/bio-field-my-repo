@@ -1,0 +1,36 @@
+.mainC{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 300px;
+    background-color: #DCF8E2;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.text1{
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+.text2{
+    text-align: center;
+    margin: 20px 0px ;
+    font-size: 16px;
+    font-weight: 400;
+    color: #868686;
+}
+
+.text3{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    color: #037B39;
+}
+.checkimg{
+    margin-bottom: -30px;
+    z-index: 1;
+}

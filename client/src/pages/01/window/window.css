@@ -1,0 +1,45 @@
+
+.imgg{
+    background-image: url('../../../images//a-vibrant-and-captivating-illustration-for-pind-gr-ArPWghtVSzGSl3mBvGOmYA-Wu7IIe5JSXSHaxUTt6Pr0g\ 2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+
+}
+
+.container{
+    display:  flex;
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  position: relative;
+  z-index: 0;
+  margin: 200px 20px 0px 20px;
+    
+}
+.line1{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.line2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+}
+.btn{
+    background-color: #037B39;
+    width : 300px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    margin-top: 180px;
+    border: 1px solid #037B39;
+}

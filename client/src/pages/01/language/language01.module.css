@@ -1,0 +1,49 @@
+
+.signIn{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px ;
+
+}
+.language{
+    font-size: 24px;
+    font-weight: 600;
+    margin: 10px ;
+    width: 325px;
+
+}
+
+.icon{
+    width:200px ;
+    height:200px ;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+}
+.optionslist{
+height:40px ;
+width: 280px;
+border-radius: 8px;
+margin: 10px;
+border: 0.5px solid black;
+}
+.btn{
+    background-color: #037B39;
+    width : 280px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    margin-top: 10px;
+    border: 1px solid #037B39;
+}

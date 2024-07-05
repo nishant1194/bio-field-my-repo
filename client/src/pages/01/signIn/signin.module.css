@@ -1,0 +1,53 @@
+
+.signIn{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 20px ;
+
+}
+.language{
+    font-size: 33px;
+    font-weight: 200;
+    padding: 20px ;
+
+}
+
+.icon{
+    width:180px ;
+    height:180px ;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+}
+.optionslist{
+height:40px ;
+width: 280px;
+border-radius: 8px;
+margin: 10px;
+border: 0.5px solid black;
+}
+.btn{
+    background-color: #037B39;
+    width : 280px;
+    height: 48px;
+    border-radius: 8px;
+    color: white;
+    margin-top: 30px;
+    border: 1px solid #037B39;
+}
+
+
+.number{
+    height:35px ;
+    width: 200px;}

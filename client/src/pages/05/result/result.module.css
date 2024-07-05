@@ -1,0 +1,61 @@
+.mainC{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 6px 0px;
+    width: 330px;
+    text-transform: uppercase;
+}
+.containerr{
+    display: flex;
+    justify-content: left;
+    width: 335px;
+    margin:20px 0px 0px 0px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.image1{
+    margin: 0px 10px 0px 5px ;
+}
+
+.text1{
+    font-size: 18px;
+    font-weight: 300;
+}
+.text2{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.text3{
+    color: #037B39;
+    font-size: 16px;
+    font-weight: 700;
+}
+.text4{
+    font-size: 14px;
+    font-weight: 400;
+}
+.box2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 210px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.line{
+    height: 1px;
+    width: 325px;
+    background-color: #c4c4c485;
+    margin: 20px 0px 0px 0px;
+}

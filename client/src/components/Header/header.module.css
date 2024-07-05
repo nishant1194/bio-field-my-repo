@@ -1,0 +1,16 @@
+.mainC{
+    display: flex;
+    margin: 40px 0px 20px 0px ;
+    justify-content: space-between;
+    width: 335px;
+}
+
+.text{  
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.btn2{
+    visibility: hidden;
+}
